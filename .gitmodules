@@ -1,6 +1,6 @@
-[submodule "IS_lab1_backend"]
-	path = IS_lab1_backend
-	url = https://github.com/potterandrey4/IS_lab1_backend.git
-[submodule "IS_lab1_frontend"]
-	path = IS_lab1_frontend
-	url = https://github.com/potterandrey4/IS_lab1_frontend.git
+[submodule "IS_lab_backend"]
+	path = IS_lab_backend
+	url = https://github.com/andrey8080/IS_lab_backend.git
+[submodule "IS_lab_frontend"]
+	path = IS_lab_frontend
+	url = https://github.com/andrey8080/IS_lab_frontend.git
